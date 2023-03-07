@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "6059453194:AAHvwYfK3sen6fok5DKe83M6jz1C7SCzcrg"
     },
     "SESSION_NAME": {
       "description": "Don't change this.",
@@ -16,27 +16,27 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "2943728"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "f92341ae32e29aa1bfdf3b5a5d25a80a"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "1005570709419-6k5es908759kn9up85pm43sh47ft4tpv.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "535883227"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "535883227",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
